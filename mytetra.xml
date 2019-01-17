@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="2"/>
+ <content>
+  <node crypt="" id="154602253738qi56xqso" name="TZ">
+   <node crypt="" id="1546023326iyv0w5azob" name="lagartijas.cl"/>
+   <node crypt="" id="15460233452o9kaxh5iw" name="zentsova.art"/>
+   <node crypt="" id="15460233559f4zze12gm" name="zentsova.com"/>
+   <node crypt="" id="1546023402p2rn2eyylc" name="Social networks"/>
+  </node>
+  <node crypt="" id="1546022547ws2prqn7ij" name="Pokrov">
+   <node crypt="" id="1546023026dxgkapz9xc" name="Elegant themes"/>
+   <node crypt="" id="15460232915mdcxxx5i2" name="Orthodox Saints"/>
+   <node crypt="" id="1546023306b7amqn3k3a" name="Goleon Art"/>
+   <node crypt="" id="1546023410z4yw62qhi6" name="Social networks"/>
+  </node>
+  <node crypt="" id="1546022772fr46241zb0" name="Web">
+   <node crypt="" id="1546022833brfg6enik3" name="DIVI"/>
+   <node crypt="" id="1546022842pa66mydol4" name="HTML CSS"/>
+   <node crypt="" id="1546022860jwth9hzfuu" name="Wordpress"/>
+  </node>
+  <node crypt="" id="1546021563r9djf1lou0" name="Amazon">
+   <node crypt="" id="1546021628mrr99wg1r7" name="AMAZON AWS"/>
+   <node crypt="" id="1546021706jwf9aqg78u" name="AMAZON SELLER"/>
+   <node crypt="" id="15460219558nbs47c18r" name="AMAZON MERCH"/>
+   <node crypt="" id="1546021981ym10qn6jhi" name="AMAZON TOOLS">
+    <node crypt="" id="1546022027jzwrkj1mqb" name="Rewiev Tools"/>
+   </node>
+   <node crypt="" id="1546022053f6ixu7mm3g" name="AMAZON HANDMADE"/>
+  </node>
+  <node crypt="" id="154602185409px69v04b" name="Asistente">
+   <node crypt="" id="15460218585ia3k9jyq0" name="Asistente Bot"/>
+   <node crypt="" id="1546022260xy3rotp5td" name="Coogle Map">
+    <node crypt="" id="1546022260lpre8vzomz" name="Asistente Bot Map"/>
+   </node>
+   <node crypt="" id="1546023422pkxi5k5jdh" name="Social networks"/>
+  </node>
+  <node crypt="" id="1546022500z2z9sjf9rf" name="Chile"/>
+  <node crypt="" id="1546022960npe2hrvlr8" name="Family">
+   <node crypt="" id="1546022979rabn6yktcw" name="Uliana"/>
+  </node>
+  <node crypt="" id="1547419139g84zts8dta" name="Server">
+   <node crypt="" id="1547420778zl38vszkpy" name="Webmin">
+    <node crypt="" id="154742079832bbbtmhzl" name="Настройка Webmin">
+     <recordtable>
+      <record id="1547420852it80vo4tzu" name="Настройка Webmin Установка Webmin на Ubuntu 12.10 (DigitalOcean)" author="Kirill" url="" tags="Webmin" ctime="20190113200732" dir="154742085251njek5xwo" file="text.html"/>
+     </recordtable>
+    </node>
+   </node>
+  </node>
+  <node crypt="" id="1547419149457hb3l4wp" name="Hosting"/>
+  <node crypt="" id="1547419165nrzbudpjw8" name="Analytics">
+   <node crypt="" id="15474192085es9o2xhv2" name="System Analytics">
+    <recordtable>
+     <record id="154741942978213ccgex" name="Системы Аналитики - AWstats" author="Kirill" url="" tags="" ctime="20190113194349" dir="1547419429h1rk9l6rdr" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
+  <node crypt="" id="1547758059y4hvcpzwpy" name="Windows">
+   <node crypt="" id="1547758072thnnecu47l" name="Настройка Windows">
+    <node crypt="" id="15477581149rro1o564y" name="Список программ"/>
+    <node crypt="" id="1547758125e8dknosit0" name="Список настроек">
+     <node crypt="" id="1547758149qhs1lkv9rs" name="Отображение папок"/>
+     <node crypt="" id="1547758166j5nwr9i2l9" name="Отображение расширения файлов">
+      <recordtable>
+       <record id="1547758255w6mp7owfrd" name="Отобразить или сменить расширение имени файла" author="Kirill" url="" tags="файлы" ctime="20190117175055" dir="15477582554ekfdub6t0" file="text.html"/>
+      </recordtable>
+     </node>
+    </node>
+   </node>
+  </node>
+ </content>
+</root>
